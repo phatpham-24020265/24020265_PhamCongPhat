@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1742542906 source:d:\code\rsm_p\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<string>
+
