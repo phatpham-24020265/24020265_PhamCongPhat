@@ -87,27 +87,6 @@ void renderText(SDL_Renderer *renderer, TTF_Font *font, const std::string &text,
     SDL_DestroyTexture(texture);
 }
 
-// GameMode showMenu(SDL_Renderer *renderer, TTF_Font *font) {
-//     SDL_Event event;
-//     while (true) {
-//         SDL_SetRenderDrawColor(renderer, 255, 165, 0, 255);
-//         SDL_RenderClear(renderer);
-
-//         renderText(renderer, font, "Select Mode:", 220, 150);
-//         renderText(renderer, font, "1. Classic Mode", 200, 200);
-//         renderText(renderer, font, "2. Health Mode", 200, 250);
-//         SDL_RenderPresent(renderer);
-
-//         while (SDL_WaitEvent(&event)) {
-//             if (event.type == SDL_QUIT) exit(0);
-//             if (event.type == SDL_KEYDOWN) {
-//                 if (event.key.keysym.sym == SDLK_1) return CLASSIC;
-//                 if (event.key.keysym.sym == SDLK_2) return HEALTH_MODE;
-//             }
-//         }
-//     }
-// }
-
 // Chọn chế độ , button trò chơi
 GameMode showMenu(SDL_Renderer *renderer, TTF_Font *font) {
     SDL_Event event;
