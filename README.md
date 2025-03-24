@@ -11,5 +11,5 @@
 -Setting | Compiler | SearchDirectory | Linker: thêm vào Policy đường dẫn:…..\x86_64-w64-mingw32\lib
 -Làm tương tự với SDL2 image, mixer, ttf.
 
-##Tải code về và trải nghiệm.
+## Tải code về và trải nghiệm.
  
