@@ -9,6 +9,6 @@ Setting | Compiler | SearchDirectory | Compiler: thêm vào Policy đường d�
 …..\x86_64-w64-mingw32\include\SDL2 
 Setting | Compiler | SearchDirectory | Linker: thêm vào Policy đường dẫn:  
 …..\x86_64-w64-mingw32\lib
-## Làm tương tự với SDL2 image, mixer, ttf.
+### Làm tương tự với SDL2 image, mixer, ttf.
 -Tải code và trải nghiệm
  
