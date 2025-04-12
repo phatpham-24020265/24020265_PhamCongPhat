@@ -1,0 +1,25 @@
+libFLAC-8.dll – Hỗ trợ mã hóa/giải mã định dạng âm thanh FLAC (Free Lossless Audio Codec).
+
+libfreetype-6.dll – Thư viện xử lý phông chữ, đặc biệt là TrueType và OpenType.
+
+libjpeg-9.dll – Hỗ trợ xử lý ảnh định dạng JPEG.
+
+libmodplug-1.dll – Xử lý âm thanh module (như .mod, .xm, .s3m…).
+
+libmpg123-0.dll – Giải mã tập tin âm thanh MP3.
+
+libogg-0.dll – Thư viện hỗ trợ định dạng OGG (thường dùng với Vorbis hoặc Opus).
+
+libopus-0.dll – Hỗ trợ mã hóa/giải mã âm thanh định dạng Opus (chất lượng cao, nén tốt).
+
+libopusfile-0.dll – Giao diện làm việc với các file âm thanh Opus.
+
+libpng16-16.dll – Hỗ trợ xử lý ảnh định dạng PNG.
+
+libtiff-5.dll – Hỗ trợ xử lý ảnh định dạng TIFF.
+
+libvorbis-0.dll – Hỗ trợ giải mã âm thanh định dạng Vorbis.
+
+libvorbisfile-3.dll – Thư viện con giúp làm việc dễ dàng hơn với file Vorbis.
+
+libwebp-7.dll – Hỗ trợ định dạng ảnh WebP (nén cao, do Google phát triển).
